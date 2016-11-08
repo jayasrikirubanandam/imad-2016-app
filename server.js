@@ -19,7 +19,7 @@ app.get('/jay1',function(req,res){
   res.send('jay1 webpage servered here');
 });
 app.get('/jay2',function(req,res){
-  res.send('jay2 webpage servered here');
+  res.sendFile(path.join(__dirname, 'ui', 'jay2.html'));
 });
 app.get('/jay3',function(req,res){
   res.send('jay3 webpage servered here');
