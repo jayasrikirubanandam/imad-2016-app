@@ -1,7 +1,7 @@
 console.log('Loaded!');
-var img=getelementbyid('madi')
-{
-    
-}
-    
-}
+var img=document.getelementbyid('madi');
+img.onclick=function(){
+    img.style.marginleft='100px';
+};
+
+
