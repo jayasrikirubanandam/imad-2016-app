@@ -5,6 +5,6 @@ img.onclick = function (){
 };
 var showtext = document.getElementById('text');
 text.onclick=function (){
-    text.style.marginRight = '100px';
+    text.style.marginRight = '400px';
 };
 
