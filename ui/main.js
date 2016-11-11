@@ -1,10 +1,10 @@
 console.log('Loaded!');
-var img=document.getelementbyid('madi');
+var img = document.getelementbyid('madi');
 img.onclick=function(){
     img.style.marginright='100px';
 };
-var showtext=document.getelementbyid('text');
+var showtext = document.getelementbyid('text');
 text.onclick=function(){
-    text.style.marginright='100';
+    text.style.marginright='100px';
 };
 
