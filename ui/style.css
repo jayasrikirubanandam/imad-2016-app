@@ -5,6 +5,8 @@ body {
     padding-left:30px;
     padding-right:30px;
     margin:0 auto;
+    background: url("https://lh3.googleusercontent.com/FybuQQHsHyNZuOrqk3k40seIi1VgYP36OcK54C4Sb5_0ZQC7kc6X32SqkKwJ7rLpUaZqSRQ=s152");
+    background-size: 300px 100px, cover;
 }
 
 .center {
