@@ -1,6 +1,6 @@
 console.log('Loaded!');
 var img = document.getElementbyid('madi');
-img.onclick=function(){
+img.onclick = function(){
     img.style.marginright='100px';
 };
 var showtext = document.getElementbyid('text');
