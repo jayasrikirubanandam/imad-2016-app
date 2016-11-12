@@ -16,9 +16,9 @@ nav{
     
 }
 nav a{
-    color: black;
+    color: white;
     line-height:50px;
-    text-decoration: none;
+    text-decoration: line through;
     
 }
 .sect{
@@ -32,7 +32,7 @@ nav a{
 .subSection{
     height: 500px;
     width:2000px;
-    background-color:white;
+    background-color:bisque;
 }
 .sectOne{
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
