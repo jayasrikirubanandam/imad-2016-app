@@ -23,7 +23,7 @@ nav a{
     width:2000px;
     background-size:cover;
     background-attachment:fixed;
-    background-repeat:norepeat;
+    background-repeat:no-repeat;
 }
 .subSection{
     height:1000px;
