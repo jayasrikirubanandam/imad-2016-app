@@ -22,7 +22,7 @@ nav a{
     height:1142px;
     width:1780px;
     
-    background-size: auto;
+    background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
