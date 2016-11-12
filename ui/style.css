@@ -23,10 +23,9 @@ nav a{
     
 }
 .sect{
-    height:1000px;
-    width:2000px;
     
-    background-size:1000px,2000px;
+    
+    background-size:2000px,1000px;
     background: fixed;
     background: no-repeat;
 }
