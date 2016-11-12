@@ -21,9 +21,9 @@ nav a{
 .sect{
     height:1000px;
     width:1000px;
-    background-size:cover;
-    background-attachment:fixed;
-    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 .subSection{
     height:500px;
