@@ -26,7 +26,6 @@ nav a{
     
     height:1000px;
     width:2000px;
-    background-attachment: fixed;
     background: no-repeat;
 }
 .subSection{
@@ -38,6 +37,7 @@ nav a{
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
     background-size: 2000px 1000px;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }    
 .sectTwo{
     background-color:aliceblue;
