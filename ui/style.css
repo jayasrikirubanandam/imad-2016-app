@@ -15,26 +15,26 @@ nav{
     
 }
 nav a{
-    color:#fff;
-    line-height:500px;
+    color: #fff;
+    line-height: 500px;
 }
 .sect{
-    height:1000px;
-    width:2000px;
+    height: 1000px;
+    width: 2000px;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 .subSection{
-    height:500px;
-    background-color:bisque;
+    height: 500px;
+    background-color: bisque;
 }
 .sectOne{
-    background:url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
+    background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
 }
 .sectTwo{
-    background:url("https://static.pexels.com/photos/64776/pexels-photo-64776-large.jpeg");
+    background: url("https://static.pexels.com/photos/64776/pexels-photo-64776-large.jpeg");
 }
 .sectThree{
-    background:url("https://images.pexels.com/photos/64777/pexels-photo-64777.jpeg?w=940&h=650&auto=compress");
+    background: url("https://images.pexels.com/photos/64777/pexels-photo-64777.jpeg?w=940&h=650&auto=compress");
 }
