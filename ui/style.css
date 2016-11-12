@@ -1,17 +1,10 @@
 .body {
-    margin-top: 350px;
-    padding-left:30px;
-    padding-right:30px;
-    background-size: 2000px, auto, cover;
-    color:white;
-    font-size: 100%;
-    font-family:Courier New;
-    text-align:center;
+    height:100%
 }
 nav{
     position:fixed;
     height:50px;
-    width:100px;
+    width:100%;
     background-color:aqua;
     text-align:center;
     z-index:99;
