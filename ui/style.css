@@ -1,5 +1,5 @@
 body{
-    height:500px;
+    height:2000px;
 }
 h1,h2,h3,h4,h5,p{
     margin-bottom:20px;
@@ -19,12 +19,12 @@ nav a{
     line-height:500px;
 }
 .sect{
-    height:500px;
+    height:2000px;
     background-size:cover;
     background-attachment:fixed;
 }
 .subSection{
-    height:250px;
+    height:1500px;
     background-color:white;
 }
 .sectOne{
