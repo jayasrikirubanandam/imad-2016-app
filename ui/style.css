@@ -26,7 +26,7 @@ nav a{
     height:1000px;
     width:2000px;
     
-    background: cover;
+    background-size:1000px,2000px;
     background: fixed;
     background: no-repeat;
 }
