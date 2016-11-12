@@ -1,5 +1,4 @@
 body {
-    font-family:Tahoma;
     margin-top: 350px;
     padding-left:30px;
     padding-right:30px;
@@ -13,8 +12,8 @@ body {
 }
 
 .text-big {
-    font-size: 100%;
-    font-family:verdana;
+    font-size: 200%;
+    font-family:Tahoma;
     text-align:center;
 }
 
