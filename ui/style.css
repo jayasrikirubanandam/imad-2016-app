@@ -2,7 +2,6 @@
     margin-top: 350px;
     padding-left:30px;
     padding-right:30px;
-    background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
     background-size: 2000px, auto, cover;
     color:white;
     font-size: 100%;
@@ -28,8 +27,11 @@ nav{
     background-color:white;
 }
 .sectOne{
-    background-image:url("https://images.pexels.com/photos/64777/pexels-photo-64777.jpeg?w=940&h=650&auto=compress");
+    background-image:url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
 }
 .sectTwo{
     background-image:url("https://static.pexels.com/photos/64776/pexels-photo-64776-large.jpeg");
+}
+.sectThree{
+    background-image:url("https://images.pexels.com/photos/64777/pexels-photo-64777.jpeg?w=940&h=650&auto=compress");
 }
