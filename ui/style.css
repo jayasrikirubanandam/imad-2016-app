@@ -10,13 +10,13 @@ nav{
     position:fixed;
     height:50px;
     width:2000px;
-    background-color:aqua;
+    background-color:gray;
     text-align:center;
     z-index:99;
     
 }
 nav a{
-    color: #fff;
+    color: black;
     line-height:50px;
 }
 .sect{
@@ -30,7 +30,7 @@ nav a{
 .subSection{
     height: 500px;
     width:2000px;
-    background-color: bisque;
+ background-color:yellow;
 }
 .sectOne{
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
