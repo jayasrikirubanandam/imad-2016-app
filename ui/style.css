@@ -18,7 +18,7 @@ nav{
 nav a{
     color: white;
     line-height:50px;
-    text-decoration: line through;
+    text-decoration: none;
     
 }
 .sect{
