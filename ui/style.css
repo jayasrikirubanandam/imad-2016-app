@@ -25,7 +25,7 @@ nav a{
 .sect{
     
     height:1000px;
-    width:200px;
+    width:2000px;
    
     background: fixed;
     background: no-repeat;
@@ -37,9 +37,9 @@ nav a{
 }
 .sectOne{
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
-    background-size: 1142px 1780px,cover;
+    background-size: 1142px 1780px;
     background-repeat: no-repeat;
-    
+}    
 .sectTwo{
     background: url("https://static.pexels.com/photos/64776/pexels-photo-64776-large.jpeg");
 }
