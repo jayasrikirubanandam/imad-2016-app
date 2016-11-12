@@ -19,8 +19,8 @@ nav a{
     line-height:500px;
 }
 .sect{
-    
-    
+    height:1000px;
+    width:1000px;
     background-size:cover;
     background-attachment:fixed;
     background-repeat:no-repeat;
