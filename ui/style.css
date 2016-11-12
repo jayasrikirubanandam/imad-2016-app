@@ -4,7 +4,7 @@ body {
     padding-left:30px;
     padding-right:30px;
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
-    background-size: auto, auto, cover;
+    background-size: 2000px, auto, cover;
 }
 
 .center {
