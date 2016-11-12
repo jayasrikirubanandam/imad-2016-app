@@ -1,5 +1,5 @@
 body{
-    height:2000px;
+    height:1000px;
 }
 h1,h2,h3,h4,h5,p{
     margin-bottom:20px;
@@ -19,15 +19,15 @@ nav a{
     line-height:500px;
 }
 .sect{
-    height:2000px;
-    width:2000px;
+    height:1000px;
+    width:1000px;
     background-size:cover;
     background-attachment:fixed;
     background-repeat:no-repeat;
 }
 .subSection{
-    height:1000px;
-    background-color:white;
+    height:500px;
+    background-color:bisque;
 }
 .sectOne{
     background:url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
