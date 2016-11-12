@@ -9,4 +9,27 @@
     font-family:Courier New;
     text-align:center;
 }
-
+nav{
+    position:fixed;
+    height:50px;
+    width:100px;
+    background-color:aqua;
+    text-align:center;
+    z-index:99;
+    
+}
+.sect{
+    height:100%;
+    background-size:cover;
+    background-attachment:fixed;
+}
+.subSetion{
+    height:50%;
+    background-color:white;
+}
+.sectOne{
+    background-image:url("https://images.pexels.com/photos/64777/pexels-photo-64777.jpeg?w=940&h=650&auto=compress");
+}
+.sectTwo{
+    background-image:url("https://static.pexels.com/photos/64776/pexels-photo-64776-large.jpeg");
+}
