@@ -15,7 +15,7 @@ nav{
     z-index:99;
     
 }
-.nav-menu{
+.nav a{
     color: #fff;
     line-height:50px;
     text-decoration: none;
