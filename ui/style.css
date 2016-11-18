@@ -22,6 +22,11 @@ nav a{
     font-weight:bold;
     word-spacing:50px;
 }
+.one-half{
+    width:44px;
+    text-align:center;
+    color:white;
+}
 .sect{
     
     height:1000px;
