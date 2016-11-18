@@ -15,7 +15,7 @@ nav{
     z-index:99;
     
 }
-.nav a{
+nav a{
     color: white;
     line-height:50px;
     text-decoration: none;
