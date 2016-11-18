@@ -35,13 +35,13 @@ one-half{
     margin:300px 100px 100px 100px;
     float:left;
 }
-.sect{
+sect{
     
     height:1000px;
     width:2000px;
     background: no-repeat;
 }
-.subSection{
+subSection{
     height: 500px;
     width:2000px;
     background-color:bisque;
@@ -53,7 +53,7 @@ sectOne{
     background-attachment: fixed;
     text-align:center;
 }    
-.sectTwo{
+sectTwo{
     background-color:aliceblue;
 }
 
