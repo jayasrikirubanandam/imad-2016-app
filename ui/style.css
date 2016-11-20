@@ -5,8 +5,9 @@
 }
 
 body{
-    height:1000px;
-    width:2000px;
+       font-family:'nobile',san-serif;
+       font-size:18px;
+       position:fixed;
 }
 
 nav{
@@ -16,28 +17,17 @@ nav{
     background-color:gray;
     text-align:center;
     z-index:99;
-    
-}
-nav {
     color: white;
     line-height:50px;
     text-decoration: none;
     font-weight:bold;
     word-spacing:50px;
 }
-.one-third{
-    width:44px;
-    text-align:center;
-    color:white;
-    margin:300px 100px 100px 100px;
-    float:left;
-    font-family:'nobile',san-serif;
-}
 p{
     
     text-align:center;
     color:grey;
-    font-size:10px;
+    font-size:100px;
     font-family:'nobile',san-serif;
     word-spacing:10px;
     padding:100px 50px 50px 50px;
@@ -45,8 +35,9 @@ p{
 h1{
     text-align:center;
     color:black;
-    font-size:10px;
+    font-size:200px;
     font-family:'nobile',san-serif;
+    font-weight:bold;
     word-spacing:3px;
     padding:50px 50px 50px 50px;
     
@@ -63,14 +54,14 @@ h1{
     background-color:bisque;
     text-align:center;
 }
-.sectOne{
+.sect sectOne{
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg")repeat fixed 100%;
     background-size: 2000px 1000px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align:center;
 }    
-.sectTwo{
+.sect sectTwo{
     background-color:aliceblue;
     text-align:center;
 }
