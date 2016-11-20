@@ -60,10 +60,14 @@ h1{
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align:center;
+    font-size:100px;
+    font-family:'nobile',san-serif;
 }    
 .sectTwo{
     background-color:aliceblue;
     text-align:center;
+    font-size:100px;
+    font-family:'nobile',san-serif;
 }
 
     
