@@ -15,8 +15,8 @@ nav{
     width:2000px;
     background-color:gray;
     text-align:center;
-    z-index:99;
     color: white;
+    z-index:99;
     text-decoration: none;
     font-weight:bold;
     word-spacing:50px;
@@ -64,6 +64,7 @@ h1{
 }    
 .sectTwo{
     background-color:aliceblue;
+    background-size: 2000px 1000px;
     text-align:center;
     font-size:100px;
     font-family:'nobile',san-serif;
