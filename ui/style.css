@@ -46,7 +46,7 @@ h2,h3,h4{
     font-size:55px;
     font-weight: bold;
     font-style: italic;
-    line-height: 100px;
+    line-height:50px;
     padding-bottom:70px;
     
 }
@@ -55,7 +55,8 @@ h2,h3,h4{
     background-color:bisque;
     text-align:center;
     background-repeat: no-repeat;
-    background-attachment: fixed;		      
+    background-attachment: fixed;
+    padding:10px;
     
 }
 
