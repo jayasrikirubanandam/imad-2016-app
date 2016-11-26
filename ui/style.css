@@ -43,7 +43,7 @@ h1{
 .subSection{
     background-color:bisque;
     text-align:center;
-    height: 1000px;
+    height: 500px;
     width:2000px;		     
     background-repeat: no-repeat;
     background-attachment: fixed;		      
@@ -53,6 +53,8 @@ h1{
 .sectOne{
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg")repeat fixed 100%;
     background-size: 2000px 1000px;
+    height: 1000px;
+    width: 2000px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align:center;
@@ -63,6 +65,8 @@ h1{
 .sectTwo{
     background-color:aliceblue;
     background-size: 2000px 1000px;
+    height:1000px;
+    width:2000px;
     text-align:center;
     font-size:100px;
     font-family:'nobile',san-serif;
