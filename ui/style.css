@@ -41,10 +41,11 @@ h1{
 }
 
 .subSection{
+    height:1000px;
     background-color:bisque;
     text-align:center;
 }
-.nav1{
+.sectOne{
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg")repeat fixed 100%;
     background-size: 2000px 1000px;
     background-repeat: no-repeat;
