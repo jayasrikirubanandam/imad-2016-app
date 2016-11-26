@@ -44,7 +44,7 @@ h1{
     background-color:bisque;
     text-align:center;
 }
-.nav1{
+.sectOne{
     background: url("https://static.pexels.com/photos/64778/pexels-photo-64778-large.jpeg");
     background-size: 2000px 1000px;
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@ h1{
     font-size:100px;
     font-family:'nobile',san-serif;
 }    
-.nav3{
+.sectTwo{
     background-color:aliceblue;
     background-size: 2000px 1000px;
     text-align:center;
