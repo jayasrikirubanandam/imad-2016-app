@@ -36,7 +36,6 @@ h1{
     font-family:'nobile',san-serif;
     font-weight:bold;
     word-spacing:3px;
-    padding:50px 50px 50px 50px;
     
 }
 
@@ -47,7 +46,7 @@ h2,h3,h4{
     font-weight: bold;
     font-style: italic;
     line-height:20px;
-    padding:70px 70px 70px 70px;
+    
     
 }
 
