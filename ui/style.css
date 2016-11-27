@@ -54,7 +54,6 @@ h2,h3,h4{
 div{
     font-size:30px;
     background-color: lightgrey;
-    width: 300px;
     border: solid green;
     line-height:1;
     margin:auto;
