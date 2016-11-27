@@ -55,7 +55,6 @@ div{
     font-size:30px;
     background-color: lightgrey;
     border: solid green;
-    line-height:1;
     width:300px;
     margin:auto;
 }
@@ -84,8 +83,7 @@ div{
     padding-top:70px;
 }    
 .sectTwo{
-    background-color:aliceblue;
-    background: url("\C:\Users\Srinath\Pictures\Screenshots(5).png");
+    background-color:lightblue;
     height:1000px;
     width:2000px;
     text-align:center;
