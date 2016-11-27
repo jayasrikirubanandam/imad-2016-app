@@ -56,7 +56,7 @@ div{
     background-color: lightgrey;
     width:300px;
     margin:auto;
-    line-height:initial;
+
 }
 
 .subSection{
@@ -79,7 +79,6 @@ div{
     color:white;
     font-size:100px;
     font-family:'nobile',san-serif;
-    line-height:5px;
     padding-top:300px;
 }    
 .sectTwo{
