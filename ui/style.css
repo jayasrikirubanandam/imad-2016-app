@@ -14,11 +14,15 @@ nav {
     width:2000px;
     background-color:gray;
     text-align:center;
-    color: white;
+    
     z-index:99;
     font-weight:bold;
     word-spacing:50px;
     font-size:x-large;
+}
+nav a{
+    color: lemonchiffon;
+    text-decoration: none;
 }
 p{
     
